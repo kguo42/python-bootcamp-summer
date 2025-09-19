@@ -1,11 +1,7 @@
 # python-bootcamp-summer
 Materials for python bootcamp for astronomy REU program
 
-The materials were initially based on Jackie's Python tutorials for the TAURUS Program https://github.com/jbchampagne/pythontutorials and Jonathan Florez's material designed for an undergraduate research methods class.
-
-Oscar and I modified the materials to tailor them for a week-long (or 6-day) bootcamp. The materials are for all enthusiastic, ready-to-be astronomy researchers, with zero Python knowledge required. The materials are dense for a week-long bootcamp; our goal is to introduce the students to different analyses, as well as provide a starting-point approach if they encounter such problems in their research.
-
 There are some materials/data files not included in the public github repo because those files are related to the research data. If you would like to request for those input files, please reach out to me at kaygastro@gmail.com.
 
-Special thanks to Joohyun, Hyunsu, Olivia, and Michelle for providing materials!
+
 
